@@ -1,0 +1,19 @@
+.todoList {
+    margin-top: 20px;
+  
+    .task {
+      background: #f0f0f0;
+      padding: 10px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    p {
+      color: #888;
+      font-style: italic;
+      font-size: 14px;
+    }
+  }
+  
